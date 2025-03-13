@@ -1,0 +1,30 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# IDE and OS files
+.idea
+.vscode
+.DS_Store
+
+# local storage
+map.json
+db.json
+db.*.json
+package-lock.json
+
+input.json
+proof.json
+public.json
+verification_key.json
+
+*.wtns
+
+*.ptau
